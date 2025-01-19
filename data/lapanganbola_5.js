@@ -1,0 +1,1 @@
+var json_lapanganbola_5 = {"type":"FeatureCollection","name":"lapanganbola_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","gambar":"C:\\Users\\nndo\\Pictures\\Screenshots\\Screenshot 2025-01-12 220921.png"},"geometry":{"type":"Point","coordinates":[101.570085809903674,-0.53081956468563]}}]}

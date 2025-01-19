@@ -1,0 +1,1 @@
+var json_kantordesa_6 = {"type":"FeatureCollection","name":"kantordesa_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","gambar":"C:\\Users\\nndo\\Pictures\\Screenshots\\Screenshot 2025-01-18 224946.png"},"geometry":{"type":"Point","coordinates":[101.565135447263671,-0.535151510428161]}}]}
